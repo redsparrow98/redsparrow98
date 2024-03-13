@@ -1,31 +1,34 @@
-#About me
+# About me
 
-👋 Hi, I’m Natalija @redsparrow98
-📫 email: prosicnatalija98@gmail.com
-🔗 LinkedIn: www.linkedin.com/in/natalija-prosic
+- 👋 Hi, I’m Natalija @redsparrow98
+- 📫 email: prosicnatalija98@gmail.com
+- 🔗 LinkedIn: www.linkedin.com/in/natalija-prosic
 
-Hello there! I'm Nat, a passionate individual currently learning programming and software development. I'm eagerly honing my skills through a rigorous 16 week CoGrammar boot camp for software development, and I'm excited to share my journey with you. As a professional, I bring a wealth of enthusiasm, dedication, and a thirst for knowledge to every endeavor.
+Hey there! I'm Nat, an enthusiast diving into the world of programming and software development. Currently, I'm on an exciting journey, refining my skills through a 16-week CoGrammar boot camp for software development. Can't wait to share the ups and downs with you!
 
-##What You'll Find Here
+## What You'll Find Here
 
-On my GitHub profile, you'll discover a collection of projects that showcase my growing proficiency in Python. While I may be relatively new to coding, each project represents a milestone in my journey towards mastery. Feel free to explore and see how I'm applying my skills to solve real-world problems. Or just personal problems i find interesting 😃
+On my GitHub profile, you'll find a variety of projects reflecting my growing proficiency in Python. While I'm still relatively new to coding, each project represents a step forward on my path to mastery. Feel free to explore and see how I'm tackling real-world challenges, or check out some personal projects that catch my eye 😄
 
-##Why Hire Me?
+## Why Hire Me?
 
-While I may not have a traditional coding background, with a background in Freight Forwarding Logistics and 5 years of academic study in Analytical Chemistry, I bring a blend of skills that seamlessly translate into software engineering:
+So, here's the deal: 
+I might not have the usual coding background, but hear me out. With my experience in freight forwarding and six years nerding out over analytical chemistry, I've got this mix of skills that just slide right into software engineering:
 
-Passion for Learning: I'm not just here to write code; I'm here to continuously grow and improve. My enthusiasm for learning drives me to stay updated on the latest technologies and best practices, ensuring that I'm always at the forefront of innovation.
+- [x] __PASSION FOR LEARNING:__ Hey, I'm not just here to write code; I'm here to keep growing and getting better. I'm all about staying updated on the latest tech and best practices because innovation is where it's at!
 
-Attention to Detail: From managing shipping documents to conducting precise laboratory experiments, I've mastered the art of meticulousness. This skill ensures clean, efficient code and effective debugging.
+- [x] __ATTENTION TO DETAIL:__ Whether managing shipping documents or running precise lab tests, I've got an eye for detail. This means clean, efficient code and quick bug squashing.
 
-Problem-Solving Abilities: Whether troubleshooting logistics or devising innovative chemical analysis methods, I excel at identifying root causes and implementing solutions. This translates to strategic coding and creative problem-solving in software engineering.
+- [x] __PROBLEM-SOLVING SKILLS:__ From untangling logistics snarls to crafting new chemical analysis methods, I've got problem-solving down to a science. In software, I'm all about finding clever solutions to tricky challenges.
 
-Data Analysis Skills: Proficient in interpreting large datasets and drawing meaningful insights, I leverage data effectively to inform decision-making in software development projects.
+- [x] __DATA ANALYSIS WHIZ:__ Crunching big data and finding patterns is my jam. I'll turn those numbers into insights that drive smart decisions in software projects.
 
-Effective Communication: Clear communication is essential in freight forwarding and analytical chemistry. I excel at conveying complex technical information, fostering seamless collaboration in software engineering.
+- [x] __SMOOTH COMMUNICATOR:__ Clear communication is key in any field. I'll make sure everyone's on the same page and collaborating smoothly.
 
-Adaptability and Resilience: Thriving in dynamic environments, I adapt quickly to change and navigate challenges with resilience. This agility is invaluable in the fast-paced world of software engineering.
+- [x] __ADAPTABILITY AND GRIT:__ I thrive in fast-paced environments and bounce back from setbacks like a champ. Software engineering's ever-changing landscape is where I shine.
 
-##Let's Connect!
-I'm always open to new opportunities, collaborations, and conversations. Whether you're interested in my projects or want to discuss potential collaborations, feel free to reach out. Let's embark on this coding journey together!
-Visit My GitHub Profile to explore my projects and get in touch. Let's code something amazing!
+## Let's Connect!
+I'm open to new opportunities, collaborations, and conversations.
+Whether you're interested in my projects or want to discuss potential partnerships, feel free to reach out. Let's join forces and embark on this coding journey together!
+You can visit My GitHub Profile to explore my projects and get in touch. Looking forward to connecting with you!
+Let's code something amazing!
