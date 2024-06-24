@@ -8,7 +8,7 @@ Hey there! I'm Nat, an enthusiast diving into the world of programming and softw
 
 ## What You'll Find Here
 
-On my GitHub profile, you'll find a variety of projects reflecting my growing proficiency in Python. While I'm still relatively new to coding, each project represents a step forward on my path to mastery. Feel free to explore and see how I'm tackling real-world challenges, or check out some personal projects that catch my eye 😄
+On my GitHub profile, you'll find a variety of projects reflecting my growing proficiency in Software Development. While I'm still relatively new to coding, each project represents a step forward on my path to mastery. Feel free to explore and see how I'm tackling real-world challenges, or check out some personal projects that catch my eye 😄
 
 ## Why Hire Me?
 
