@@ -2,6 +2,7 @@
 
 Hi, I’m Natalija GU Software Engineering and Management student 
 
-LinkedIn: [www.linkedin.com/in/natalija-prosic](https://www.linkedin.com/in/natalija-prosic)
+[![linked in link](https://raw.githubusercontent.com/CLorant/readme-social-icons/refs/heads/main/small/light/linkedin.svg)](https://www.linkedin.com/in/natalija-prosic) 
+[in/natalija-prosic](https://www.linkedin.com/in/natalija-prosic)
 
-Email: prosicnatalija98@gmail.com  
+✉️ [prosicnatalija98@gmail.com](mailto:prosicnatalija98@gmail.com)
